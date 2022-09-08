@@ -1,0 +1,41 @@
+---
+title: "My Website"
+---
+
+
+# Hi! This is Roujin's website   
+  
+MY name is Roujin An. I am a master student from Johns Hopkins Bloomberg school of public health, Biochemistry and Molecular Biology department.   
+  
+  I got my bachelor's degree in pharmaceutical science, during undergrad I mainly focused on researching the role of LncRNAs in Head and Neck Cancer, the role of LncRNAs in hemorrhoid development, and novel c-MET targeting peptides pre-clinical studies. I am also very interested in synthetic biology. I built a school team in 2020 in my undergrad school with many friends who are also interested in synthetic biology. We designed a “live-drug factory” based on E. coli Nissle 1917 and went for iGEM competition. This design is for the prevention of alcoholic liver disease, acts through inhibiting local inflammation response and balancing intestinal flora. We won a gold medal and one of our design was nominated for the individual award “the best composite part”.  
+  
+  My research now is about retina development, using single-cell sequencing to identify the potential "MVP" transcription factors in retina photoreceptor development, then validate with functional study.
+  
+####  so, I want to build a more solid foundation of using R, for doing single-cell sequencing data analysis  
+ 
+  I also hold strong and broad interests in genetic medicine (CRISPR-based tools, RNA-therapies, RNA vaccines), immunotherapy (CAR-T and T-cell exhaustion), regenerative medicine (adult stem cell, aging and skin) and synbio, especially from a translational perspective. AND I now find that Machine learning is becoming a new trend and probably a very useful tool for many different purposes: structural biology, computer-aided drug design; personalized therapy/business/investment...
+  
+#### Thus, I also want to gain some basic understandings about machine-learning: concepts and basic approaches.     
+  
+    
+# Well, 5 fun facts
+
+1. I was sent to learn ballet when I was very young, but my moves were so fierce that people suggest me to learn martial art instead.  
+
+2. I was in high school choir  
+
+3. I play piano, but very badly. A living evidence of "practice makes perfect"，only it's in the reverse way.   
+
+4. I like Vivaldi and Bach. And Radiohead, Daft punk.  
+
+5. ...can't think of more.    
+  
+  
+  
+# Here is something fun
+
+### check out our 2020_CPU_China iGEM project page!
+https://2020.igem.org/Team:CPU_CHINA/
+
+
+
